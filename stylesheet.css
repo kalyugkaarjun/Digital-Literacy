@@ -1,0 +1,54 @@
+body{
+    min-height: 100vh;
+   background: rgb(48, 25, 106);
+}
+h1{
+text-align: center;
+font-size: 150px;
+text-shadow: 0 0 5px #a5ccee, 0 0 10px #a5ccee, 0 0 42px rgb(0, 106, 255), 0 0 82px rgb(0, 106, 255),0 0 92px rgb(73, 104, 145);
+color: rgb(31, 54, 79);
+}
+h2{
+    text-align: center;
+    font-size: 55px; 
+    color: rgb(89, 117, 199);
+    }
+    
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(55, 94, 212);
+    margin: 100px;
+    line-height: 1.5;
+}
+img{
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: rgb(31, 16, 70);
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #005562;
+    color: rgb(255, 255, 255);
+  }
+  
+  .topnav a.active {
+    background-color: #297dad;
+    color: white;
+  }
+  iframe{
+padding: 10px 435px;
+  }
